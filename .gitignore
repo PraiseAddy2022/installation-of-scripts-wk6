@@ -1,5 +1,6 @@
 # Local .terraform directories
 .terraform/
+server_inventory_PADDY-LAPTOP-Q9RG933Q_2025-10-01.txt
 
 # .tfstate files
 *.tfstate
